@@ -10,6 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^22.13.11"
+    "@hapi/boom": "^10.0.1",
+    "@types/node": "^22.13.11",
+    "baileys-mod": "^6.8.5",
+    "cheerio": "^1.1.0",
+    "express": "^5.1.0",
+    "pino": "^9.7.0",
+    "jimp": "^0.16.1"
   }
 }
